@@ -5,7 +5,7 @@
 <h3 align="center">Software ingineer student from Belarus </h3>
 
 
-### 👨‍💻: &nbsp;About Me :
+### 👨‍💻 &nbsp;About Me :
 
 - 🗺️ I’m from Belarus. I study at BSUIR
 - 🔭 I’m currently working on C# ORM for Sqlite
