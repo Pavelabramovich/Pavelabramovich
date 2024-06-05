@@ -8,7 +8,7 @@
 ### 👨‍💻 &nbsp;About Me :
 
 - 🗺️ I’m from Belarus. I study at BSUIR
-- 🔭 I’m currently working on C# ORM for Sqlite
+- 🔭 I’m currently working on C# ORM for Oracle
 - 🌱 I’m currently learning CQRS
 - ✨ I want to become full-stack dot-net developer
 - 📫 How to reach me: \
