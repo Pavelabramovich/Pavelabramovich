@@ -9,7 +9,7 @@
 
 - 🗺️ I’m from Belarus. I study at BSUIR
 - 🔭 I’m currently working on C# ORM for Oracle
-- 🌱 I’m currently learning CQRS
+- 🌱 I’m currently learning Blazor
 - ✨ I want to become full-stack dot-net developer
 - 📫 How to reach me: \
     [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/PavelAbram0vich) \
