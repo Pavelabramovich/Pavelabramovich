@@ -10,7 +10,7 @@
 - 🗺️ I’m from Belarus. I study at BSUIR
 - 🔭 I’m currently working on C# ORM for Oracle
 - 🌱 I’m currently learning Blazor
-- ✨ I want to become full-stack dot-net developer
+- ✨ I want to become full-stack .Net developer
 - 📫 How to reach me: \
     [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/PavelAbram0vich) \
     <a href="mailto:apn20040510@gmail.com"> <!--when using markdown syntax it is not possible to use mailto in <a></a> tag-->
