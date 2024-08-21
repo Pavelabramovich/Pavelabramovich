@@ -2,7 +2,7 @@
   Hello there, I'm Pavel <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
-<h3 align="center">Software ingineer student from Belarus </h3>
+<h3 align="center">Software engineer student from Belarus </h3>
 
 
 ### 👨‍💻 &nbsp;About Me :
